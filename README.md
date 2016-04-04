@@ -1,7 +1,7 @@
 # hello-world
 Just another repository
 
-Hello,
+Hi All,
 
 Thanks,
 Anand Soni
